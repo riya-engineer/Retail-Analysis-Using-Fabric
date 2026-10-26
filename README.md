@@ -1,4 +1,5 @@
-# 🍽️ Swiggy Sales Analytics Dashboard | Microsoft Fabric & Power BI
+# 🍽️ Swiggy Sales Analytics Dashboard | 
+ Microsoft Fabric & Power BI
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft%20Fabric-Data%20Engineering-blue?style=for-the-badge&logo=microsoftfabric" alt="Microsoft Fabric"/>
